@@ -1,7 +1,9 @@
 // solarsystem.hpp
 
+
 #include <GL/glut.h>
 #include "stars.hpp"
+
 #define STARS_NUM 10
 
 class SolarSystem {
